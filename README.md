@@ -8,7 +8,7 @@ This repository presents an in-depth regression analysis of the Australian housi
   - [Project Overview](#project-overview)
   - [Approach](#approach)
   - [Conclusions](#conclusions)
-    - [Business Insights:](#business-insights)
+  - [Business Insights](#business-insights)
   - [Technologies Used](#technologies-used)
   - [License](#license)
   - [Acknowledgments](#acknowledgments)
